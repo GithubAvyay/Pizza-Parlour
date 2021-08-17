@@ -1,0 +1,27 @@
+<!-- About -->
+<div id="about" class="w3-container w3-red w3-grayscale w3-xlarge w3-padding-64">
+
+<h1 class="w3-center w3-jumbo">About</h1>
+
+<p>The Pizza Restaurant was founded in 2008 by Mr. Italiano. When he started he was only 20 years old.... He first had only few customer but as he worked hard he now has many customers....
+<p><strong>The Chef?</strong> Mr. Italiano himself
+<img src="Chef image.jpg" style="width:150px" class="w3-circle w3-right" alt="Chef"></p>
+
+<p>We are proud of our interiors.</p>
+<p class="w3-padding-16 w3-stretch">
+<img src="Restaurant image." style="width:100%" alt="Restaurant">
+</p>
+<h1><b>Opening Hours</b></h1>
+
+<div class="w3-row">
+<div class="w3-half">
+<p>Mon , Wed &amp; Sat CLOSED</p>
+<p>Tuesday:11:00 a.m - 10:00 p.m</p>
+<p>Thursday:9:00 a.m - 8:00 p.m</p>
+</div>
+<div class="w3-half">
+<p>Sunday:10:00 a.m - 9:00 p.m</p>
+<p>Friday:10:00 a.m - 10:00 p.m</p>
+</div>
+</div>
+</div>
